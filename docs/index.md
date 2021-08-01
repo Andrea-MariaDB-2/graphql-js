@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](https://github.com/Andrea-MariaDB-2/graphql-js/) and ![Image]![repository-open-graph-template](https://user-images.githubusercontent.com/87845402/127782217-05644886-6d55-4852-a390-a576ea031339.png))
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
